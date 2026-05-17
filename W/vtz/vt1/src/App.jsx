@@ -3,12 +3,15 @@ import "./App.css"
 import heroImg from "./assets/hero.png"
 import reactLogo from "./assets/react.svg"
 import viteLogo from "./assets/vite.svg"
+import Footer from "./comp/Footer.jsx"
+import Header from "./comp/Header.jsx"
 
 function App() {
   const [count, setCount] = useState(0)
 
   return (
     <>
+      <Header />
       <section id="center">
         <div className="hero">
           <img src={heroImg} className="base" width="170" height="179" alt="" />
@@ -24,7 +27,7 @@ function App() {
         <button
           type="button"
           className="counter"
-          onClick={() => setCount((count) => count * 2)}
+          onClick={() => setCount((count) => count + 2)}
         >
           Count is {count}
         </button>
@@ -114,6 +117,7 @@ function App() {
       </section>
 
       <div className="ticks"></div>
+      <Footer />
       <section id="spacer"></section>
     </>
   )
