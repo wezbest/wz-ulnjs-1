@@ -3,6 +3,7 @@
 
 1. [What ?](#what-)
 2. [Dirz](#dirz)
+3. [Important Tools](#important-tools)
 
 # What ?
 
@@ -13,3 +14,9 @@
 |       Dir       |  Panty  |
 | :-------------: | :-----: |
 | [`vt1`](./vt1/) | v1 work |
+
+# Important Tools
+
+|                        Tool                        |            What             |
+| :------------------------------------------------: | :-------------------------: |
+| [`truss-image`](https://lib.rs/crates/truss-image) | Rust CLI Image Manipulation |
