@@ -1,8 +1,16 @@
 <h1 align="center"><code> ULNJS </code></h1>
 <h2 align="center"><i> NJS  </i></h2>
 
-<img src="./wz/2.gif" alt="Description" width="1300" />
+1. [What ?](#what-)
+2. [Dirz](#dirz)
 
-# wz-ulnjs-1
+# What ?
 
-U L N JS 1
+1. This diraz is for learning about Vite and NextJs and related woman booty stink
+2. Stucture follows usual panties
+
+# Dirz
+
+|     Dir     |      Panty      |
+| :---------: | :-------------: |
+| [`W`](./W/) | Main Woman Fart |
