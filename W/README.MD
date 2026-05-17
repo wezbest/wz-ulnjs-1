@@ -14,3 +14,6 @@
 | :-------------: | :-----------: |
 | [`vtz`](./vtz/) |  Vitez Pussy  |
 | [`njs`](./njs/) | NextgJs Panty |
+
+> [!CAUTION]
+> Dont use `bun` for your learning they have multiple bugs making you waste time for debugging , stick to `pnpm`
