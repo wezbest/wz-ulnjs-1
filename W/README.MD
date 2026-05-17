@@ -13,10 +13,11 @@
 
 # Dirz
 
-|       Dir       |     Panty     |
-| :-------------: | :-----------: |
-| [`vtz`](./vtz/) |  Vitez Pussy  |
-| [`njs`](./njs/) | NextgJs Panty |
+|                     Dir                     |                     Panty                      |
+| :-----------------------------------------: | :--------------------------------------------: |
+|               [`vtz`](./vtz/)               |                  Vitez Pussy                   |
+|               [`njs`](./njs/)               |                 NextgJs Panty                  |
+| [`node_cleaner_logs`](./node_cleaner_logs/) | Logs from [`nodecleanup.sh`](./nodecleanup.sh) |
 
 # use `pnpm ` instead of ` bun`
 
