@@ -3,6 +3,8 @@
 
 1. [What ?](#what-)
 2. [Dirz](#dirz)
+3. [use `pnpm ` instead of ` bun`](#use-pnpm--instead-of--bun)
+4. [PNPM installation](#pnpm-installation)
 
 # What ?
 
@@ -15,5 +17,20 @@
 | [`vtz`](./vtz/) |  Vitez Pussy  |
 | [`njs`](./njs/) | NextgJs Panty |
 
+# use `pnpm ` instead of ` bun`
+
 > [!CAUTION]
 > Dont use `bun` for your learning they have multiple bugs making you waste time for debugging , stick to `pnpm`
+
+# PNPM installation
+
+- From the [`docs`](https://pnpm.io/installation)
+
+```sh
+# Install needed library
+apt-get install -y libatomic1
+
+# Then install pnpnm
+curl -fsSL https://get.pnpm.io/install.sh | sh -
+
+```

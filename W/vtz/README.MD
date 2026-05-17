@@ -11,9 +11,11 @@
 
 # Dirz
 
-|       Dir       |  Panty  |
-| :-------------: | :-----: |
-| [`vt1`](./vt1/) | v1 work |
+1. Note `v1` was done with `bun` but you ran into some bugs with it and its not ready so defaulting back to `pnpm`
+
+|       Dir       |   Panty   |
+| :-------------: | :-------: |
+| [`vt1`](./vt1/) | v1 work - |
 
 # Important Tools
 
