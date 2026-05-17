@@ -1,0 +1,309 @@
+
+[1;94m · · ────── ꒰ঌ·✦·໒꒱ ────── · ·
+[1;94m · · ────── Vite Init Coomands ────── · ·
+[1;94m · · ────── ꒰ঌ·✦·໒꒱ ────── · ·
+Sun May 17 02:03:43 PM UTC 2026
+Executing:[1;95mbun create vite[0m
+Resolving dependencies
+Resolved, downloaded and extracted [4]
+Saved lockfile
+[?25l│
+◆  Project name:
+│  vite-project
+└
+[999D[4A[2B[2K[G│  .█[2B[999D[4A[1B[J◇  Project name:
+│  .
+[?25h[?25l│
+◆  Current directory is not empty. Please choose how to proceed:
+│  ● Cancel operation
+│  ○ Remove existing files and continue
+│  ○ Ignore files and continue
+└
+[999D[6A[2B[J│  ○ Cancel operation
+│  ● Remove existing files and continue
+│  ○ Ignore files and continue
+└
+[999D[6A[3B[J│  ○ Remove existing files and continue
+│  ● Ignore files and continue
+└
+[999D[6A[1B[J◇  Current directory is not empty. Please choose how to proceed:
+│  Ignore files and continue
+[?25h[?25l│
+◆  Select a framework:
+│  ● Vanilla
+│  ○ Vue
+│  ○ React
+│  ○ Preact
+│  ○ Lit
+│  ○ Svelte
+│  ○ Solid
+│  ○ Ember
+│  ○ Qwik
+│  ○ Angular
+│  ○ Marko
+│  ○ Others
+└
+[999D[15A[2B[J│  ○ Vanilla
+│  ● Vue
+│  ○ React
+│  ○ Preact
+│  ○ Lit
+│  ○ Svelte
+│  ○ Solid
+│  ○ Ember
+│  ○ Qwik
+│  ○ Angular
+│  ○ Marko
+│  ○ Others
+└
+[999D[15A[3B[J│  ○ Vue
+│  ● React
+│  ○ Preact
+│  ○ Lit
+│  ○ Svelte
+│  ○ Solid
+│  ○ Ember
+│  ○ Qwik
+│  ○ Angular
+│  ○ Marko
+│  ○ Others
+└
+[999D[15A[1B[J◇  Select a framework:
+│  React
+[?25h[?25l│
+◆  Select a variant:
+│  ● TypeScript
+│  ○ TypeScript + React Compiler
+│  ○ JavaScript
+│  ○ JavaScript + React Compiler
+│  ○ RSC
+│  ○ React Router v7 ↗ https://reactrouter.com
+│  ○ TanStack Router ↗ https://tanstack.com/router
+│  ○ RedwoodSDK ↗ https://rwsdk.com
+│  ○ Vike ↗ https://vike.dev
+└
+[999D[12A[2B[J│  ○ TypeScript
+│  ○ TypeScript + React Compiler
+│  ○ JavaScript
+│  ○ JavaScript + React Compiler
+│  ○ RSC
+│  ○ React Router v7 ↗ https://reactrouter.com
+│  ○ TanStack Router ↗ https://tanstack.com/router
+│  ○ RedwoodSDK ↗ https://rwsdk.com
+│  ● Vike ↗ https://vike.dev (bun x create-vike@latest --react)
+└
+[999D[12A[9B[J│  ● RedwoodSDK ↗ https://rwsdk.com (bun x create-rwsdk@latest)
+│  ○ Vike ↗ https://vike.dev
+└
+[999D[12A[8B[J│  ● TanStack Router ↗ https://tanstack.com/router (bun x @tanstack/cli@latest 
+│  create TARGET_DIR --framework react --interactive)
+│  ○ RedwoodSDK ↗ https://rwsdk.com
+│  ○ Vike ↗ https://vike.dev
+└
+[999D[13A[7B[J│  ● React Router v7 ↗ https://reactrouter.com (bun x 
+│  create-react-router@latest)
+│  ○ TanStack Router ↗ https://tanstack.com/router
+│  ○ RedwoodSDK ↗ https://rwsdk.com
+│  ○ Vike ↗ https://vike.dev
+└
+[999D[13A[6B[J│  ● RSC (bun x tiged 
+│  vitejs/vite-plugin-react/packages/plugin-rsc/examples/starter)
+│  ○ React Router v7 ↗ https://reactrouter.com
+│  ○ TanStack Router ↗ https://tanstack.com/router
+│  ○ RedwoodSDK ↗ https://rwsdk.com
+│  ○ Vike ↗ https://vike.dev
+└
+[999D[13A[5B[J│  ● JavaScript + React Compiler
+│  ○ RSC
+│  ○ React Router v7 ↗ https://reactrouter.com
+│  ○ TanStack Router ↗ https://tanstack.com/router
+│  ○ RedwoodSDK ↗ https://rwsdk.com
+│  ○ Vike ↗ https://vike.dev
+└
+[999D[12A[4B[J│  ● JavaScript
+│  ○ JavaScript + React Compiler
+│  ○ RSC
+│  ○ React Router v7 ↗ https://reactrouter.com
+│  ○ TanStack Router ↗ https://tanstack.com/router
+│  ○ RedwoodSDK ↗ https://rwsdk.com
+│  ○ Vike ↗ https://vike.dev
+└
+[999D[12A[3B[J│  ● TypeScript + React Compiler
+│  ○ JavaScript
+│  ○ JavaScript + React Compiler
+│  ○ RSC
+│  ○ React Router v7 ↗ https://reactrouter.com
+│  ○ TanStack Router ↗ https://tanstack.com/router
+│  ○ RedwoodSDK ↗ https://rwsdk.com
+│  ○ Vike ↗ https://vike.dev
+└
+[999D[12A[2B[J│  ● TypeScript
+│  ○ TypeScript + React Compiler
+│  ○ JavaScript
+│  ○ JavaScript + React Compiler
+│  ○ RSC
+│  ○ React Router v7 ↗ https://reactrouter.com
+│  ○ TanStack Router ↗ https://tanstack.com/router
+│  ○ RedwoodSDK ↗ https://rwsdk.com
+│  ○ Vike ↗ https://vike.dev
+└
+[999D[12A[2B[J│  ○ TypeScript
+│  ● TypeScript + React Compiler
+│  ○ JavaScript
+│  ○ JavaScript + React Compiler
+│  ○ RSC
+│  ○ React Router v7 ↗ https://reactrouter.com
+│  ○ TanStack Router ↗ https://tanstack.com/router
+│  ○ RedwoodSDK ↗ https://rwsdk.com
+│  ○ Vike ↗ https://vike.dev
+└
+[999D[12A[3B[J│  ○ TypeScript + React Compiler
+│  ● JavaScript
+│  ○ JavaScript + React Compiler
+│  ○ RSC
+│  ○ React Router v7 ↗ https://reactrouter.com
+│  ○ TanStack Router ↗ https://tanstack.com/router
+│  ○ RedwoodSDK ↗ https://rwsdk.com
+│  ○ Vike ↗ https://vike.dev
+└
+[999D[12A[4B[J│  ○ JavaScript
+│  ● JavaScript + React Compiler
+│  ○ RSC
+│  ○ React Router v7 ↗ https://reactrouter.com
+│  ○ TanStack Router ↗ https://tanstack.com/router
+│  ○ RedwoodSDK ↗ https://rwsdk.com
+│  ○ Vike ↗ https://vike.dev
+└
+[999D[12A[5B[J│  ○ JavaScript + React Compiler
+│  ● RSC (bun x tiged 
+│  vitejs/vite-plugin-react/packages/plugin-rsc/examples/starter)
+│  ○ React Router v7 ↗ https://reactrouter.com
+│  ○ TanStack Router ↗ https://tanstack.com/router
+│  ○ RedwoodSDK ↗ https://rwsdk.com
+│  ○ Vike ↗ https://vike.dev
+└
+[999D[13A[6B[J│  ○ RSC
+│  ● React Router v7 ↗ https://reactrouter.com (bun x 
+│  create-react-router@latest)
+│  ○ TanStack Router ↗ https://tanstack.com/router
+│  ○ RedwoodSDK ↗ https://rwsdk.com
+│  ○ Vike ↗ https://vike.dev
+└
+[999D[13A[7B[J│  ○ React Router v7 ↗ https://reactrouter.com
+│  ● TanStack Router ↗ https://tanstack.com/router (bun x @tanstack/cli@latest 
+│  create TARGET_DIR --framework react --interactive)
+│  ○ RedwoodSDK ↗ https://rwsdk.com
+│  ○ Vike ↗ https://vike.dev
+└
+[999D[13A[8B[J│  ○ TanStack Router ↗ https://tanstack.com/router
+│  ● RedwoodSDK ↗ https://rwsdk.com (bun x create-rwsdk@latest)
+│  ○ Vike ↗ https://vike.dev
+└
+[999D[12A[9B[J│  ○ RedwoodSDK ↗ https://rwsdk.com
+│  ● Vike ↗ https://vike.dev (bun x create-vike@latest --react)
+└
+[999D[12A[9B[J│  ● RedwoodSDK ↗ https://rwsdk.com (bun x create-rwsdk@latest)
+│  ○ Vike ↗ https://vike.dev
+└
+[999D[12A[9B[J│  ○ RedwoodSDK ↗ https://rwsdk.com
+│  ● Vike ↗ https://vike.dev (bun x create-vike@latest --react)
+└
+[999D[12A[2B[J│  ● TypeScript
+│  ○ TypeScript + React Compiler
+│  ○ JavaScript
+│  ○ JavaScript + React Compiler
+│  ○ RSC
+│  ○ React Router v7 ↗ https://reactrouter.com
+│  ○ TanStack Router ↗ https://tanstack.com/router
+│  ○ RedwoodSDK ↗ https://rwsdk.com
+│  ○ Vike ↗ https://vike.dev
+└
+[999D[12A[2B[J│  ○ TypeScript
+│  ● TypeScript + React Compiler
+│  ○ JavaScript
+│  ○ JavaScript + React Compiler
+│  ○ RSC
+│  ○ React Router v7 ↗ https://reactrouter.com
+│  ○ TanStack Router ↗ https://tanstack.com/router
+│  ○ RedwoodSDK ↗ https://rwsdk.com
+│  ○ Vike ↗ https://vike.dev
+└
+[999D[12A[3B[J│  ○ TypeScript + React Compiler
+│  ● JavaScript
+│  ○ JavaScript + React Compiler
+│  ○ RSC
+│  ○ React Router v7 ↗ https://reactrouter.com
+│  ○ TanStack Router ↗ https://tanstack.com/router
+│  ○ RedwoodSDK ↗ https://rwsdk.com
+│  ○ Vike ↗ https://vike.dev
+└
+[999D[12A[4B[J│  ○ JavaScript
+│  ● JavaScript + React Compiler
+│  ○ RSC
+│  ○ React Router v7 ↗ https://reactrouter.com
+│  ○ TanStack Router ↗ https://tanstack.com/router
+│  ○ RedwoodSDK ↗ https://rwsdk.com
+│  ○ Vike ↗ https://vike.dev
+└
+[999D[12A[5B[J│  ○ JavaScript + React Compiler
+│  ● RSC (bun x tiged 
+│  vitejs/vite-plugin-react/packages/plugin-rsc/examples/starter)
+│  ○ React Router v7 ↗ https://reactrouter.com
+│  ○ TanStack Router ↗ https://tanstack.com/router
+│  ○ RedwoodSDK ↗ https://rwsdk.com
+│  ○ Vike ↗ https://vike.dev
+└
+[999D[13A[5B[J│  ● JavaScript + React Compiler
+│  ○ RSC
+│  ○ React Router v7 ↗ https://reactrouter.com
+│  ○ TanStack Router ↗ https://tanstack.com/router
+│  ○ RedwoodSDK ↗ https://rwsdk.com
+│  ○ Vike ↗ https://vike.dev
+└
+[999D[12A[4B[J│  ● JavaScript
+│  ○ JavaScript + React Compiler
+│  ○ RSC
+│  ○ React Router v7 ↗ https://reactrouter.com
+│  ○ TanStack Router ↗ https://tanstack.com/router
+│  ○ RedwoodSDK ↗ https://rwsdk.com
+│  ○ Vike ↗ https://vike.dev
+└
+[999D[12A[1B[J◇  Select a variant:
+│  JavaScript
+[?25h[?25l│
+◆  Install with bun and start now?
+│  ● Yes / ○ No
+└
+[999D[4A[1B[J◇  Install with bun and start now?
+│  Yes
+[?25h│
+◇  Scaffolding project in /workspaces/wz-ulnjs-1/W/vtz/vt1...
+│
+◇  Installing dependencies with bun...
+bun install v1.3.14 (0d9b296a)
+Resolving dependencies
+Resolved, downloaded and extracted [612]
+Saved lockfile
+
++ @eslint/js@10.0.1
++ @types/react@19.2.14
++ @types/react-dom@19.2.3
++ @vitejs/plugin-react@6.0.2
++ eslint@10.4.0
++ eslint-plugin-react-hooks@7.1.1
++ eslint-plugin-react-refresh@0.5.2
++ globals@17.6.0
++ vite@8.0.13
++ react@19.2.6
++ react-dom@19.2.6
+
+137 packages installed [2.78s]
+│
+◇  Starting dev server...
+$ vite
+
+  VITE v8.0.13  ready in 1190 ms
+
+  ➜  Local:   http://localhost:5173/
+  ➜  Network: use --host to expose
+  ➜  press h + enter to show help

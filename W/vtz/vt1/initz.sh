@@ -28,8 +28,8 @@ RESET='\033[0m'
 pussy1() {
 	declare -a CMD=(
 
-		#0 -  Step1 - Make Iam compartment vmlab1
-		"curl ifconfig.co | jq"
+		#0 - Make a new vite project
+		"bun create vite"
 
 	)
 
@@ -54,14 +54,14 @@ pussy1() {
 booty1() {
 	declare -a CMD=(
 
-		#0 - Get Compartment List
-		echo -e "Drink Her Piss"
+		#0 - Make a new vite project
+		"bun create vite"
 	)
 
 	for CMDEXEC in "${CMD[@]}"; do
-	echo -e ""
-	echo -e ""
-	echo -e ""
+		echo -e ""
+		echo -e ""
+		echo -e ""
 		echo -e "${BBLUE}────── ꒰ঌ·✦·໒꒱ ──────${RESET}"
 		echo -e "${BBLUE}────── Woman Ass Poop Eating ──────${RESET}"
 		echo -e "${BBLUE}────── ꒰ঌ·✦·໒꒱ ──────${RESET}"
@@ -78,8 +78,8 @@ booty1() {
 # /// Execiton ///
 
 panty() {
-	pussy1 2>&1 | tee -a logz/pussylick.txt
-	booty1 2>&1 | tee -a logz/bootylick.txt
+	pussy1 2>&1 | tee -a initz.sh.txt
+	# booty1 2>&1 | tee -a initz.sh.txt
 
 }
 panty
