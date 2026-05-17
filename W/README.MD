@@ -5,6 +5,7 @@
 2. [Dirz](#dirz)
 3. [use `pnpm ` instead of ` bun`](#use-pnpm--instead-of--bun)
 4. [PNPM installation](#pnpm-installation)
+5. [Clean all `node_modules`](#clean-all-node_modules)
 
 # What ?
 
@@ -34,3 +35,5 @@ apt-get install -y libatomic1
 curl -fsSL https://get.pnpm.io/install.sh | sh -
 
 ```
+
+# Clean all `node_modules`
