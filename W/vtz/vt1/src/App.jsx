@@ -1,6 +1,6 @@
 import { useState } from "react"
 import "./App.css"
-import fem1 from "./assets/21377s.jpg"
+import fem1 from "./assets/21.jpg"
 import heroImg from "./assets/hero.png"
 import reactLogo from "./assets/react.svg"
 import viteLogo from "./assets/vite.svg"
@@ -15,10 +15,10 @@ function App() {
       <Header />
       <section id="center">
         <div className="hero">
+          <img src={fem1} className="fem1" alt="Fem1 logo" />
           <img src={heroImg} className="base" width="170" height="179" alt="" />
           <img src={reactLogo} className="framework" alt="React logo" />
           <img src={viteLogo} className="vite" alt="Vite logo" />
-          <img src={fem1} className="fem1" alt="Fem1 logo" />
         </div>
         <div>
           <h1>Smell Panty</h1>
