@@ -10,6 +10,7 @@
 
 # Dirz
 
-|     Dir     |      Panty      |
-| :---------: | :-------------: |
-| [`W`](./W/) | Main Woman Fart |
+|       Dir       |     Panty     |
+| :-------------: | :-----------: |
+| [`vtz`](./vtz/) |  Vitez Pussy  |
+| [`njs`](./njs/) | NextgJs Panty |
