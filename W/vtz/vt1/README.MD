@@ -3,6 +3,7 @@
 
 1. [What ?](#what-)
 2. [Dirz](#dirz)
+3. [Important Commads](#important-commads)
 
 # What ?
 
@@ -10,7 +11,18 @@
 
 # Dirz
 
-|       Dir       |     Panty     |
-| :-------------: | :-----------: |
-| [`vtz`](./vtz/) |  Vitez Pussy  |
-| [`njs`](./njs/) | NextgJs Panty |
+|            Dir            |        Panty        |
+| :-----------------------: | :-----------------: |
+| [`initz.sh`](./initz.sh/) | Project Init Script |
+
+# Important Commads
+
+Setup a new vite project with bun
+
+```sh
+# Creating a project
+bun create vite
+
+# After installation of the project install the cli
+
+```
