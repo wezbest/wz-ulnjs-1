@@ -1,6 +1,5 @@
 import { useState } from "react"
 import "./App.css"
-import fem1 from "./assets/fem1.jpg"
 import heroImg from "./assets/hero.png"
 import reactLogo from "./assets/react.svg"
 import viteLogo from "./assets/vite.svg"
@@ -20,8 +19,8 @@ function App() {
           <img src={viteLogo} className="vite" alt="Vite logo" />
         </div>
         <div>
-          <h1>Smell Panty</h1>
-          <img src={fem1} className="fem1" alt="Fem1 logo" />
+          <h1>Smell Panty</h1> // your
+          <img src="/fem1.webp" className="fem1" alt="Fem1 logo" />
           <p>
             Edit <code>src/App.jsx</code> and save to test <code>HMR</code>
           </p>

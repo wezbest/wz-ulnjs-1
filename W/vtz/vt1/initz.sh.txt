@@ -307,3 +307,55 @@ $ vite
   ➜  Local:   http://localhost:5173/
   ➜  Network: use --host to expose
   ➜  press h + enter to show help
+
+[1;94m · · ────── ꒰ঌ·✦·໒꒱ ────── · ·
+[1;94m · · ────── Vite Init Coomands ────── · ·
+[1;94m · · ────── ꒰ঌ·✦·໒꒱ ────── · ·
+Sun May 17 05:17:12 PM UTC 2026
+Executing:[1;95mtruss convert src/assets/fem1.jpg --format avif --quality 35 -o src/assets/fem1.avif[0m
+[1;92mDone!
+───── ⋆⋅☆⋅⋆ ─────[0m
+───── ⋆⋅☆⋅⋆ ─────[0m
+───── ⋆⋅☆⋅⋆ ─────[0m
+
+
+
+
+[1;94m · · ────── ꒰ঌ·✦·໒꒱ ────── · ·
+[1;94m · · ────── Vite Init Coomands ────── · ·
+[1;94m · · ────── ꒰ঌ·✦·໒꒱ ────── · ·
+Sun May 17 05:20:39 PM UTC 2026
+Executing:[1;95mtruss convert src/assets/fem1.jpg --format avif --quality 35 -o src/assets/fem1.avif[0m
+[1;92mDone!
+───── ⋆⋅☆⋅⋆ ─────[0m
+───── ⋆⋅☆⋅⋆ ─────[0m
+───── ⋆⋅☆⋅⋆ ─────[0m
+
+
+
+
+[1;94m · · ────── ꒰ঌ·✦·໒꒱ ────── · ·
+[1;94m · · ────── Vite Init Coomands ────── · ·
+[1;94m · · ────── ꒰ঌ·✦·໒꒱ ────── · ·
+Sun May 17 05:21:03 PM UTC 2026
+Executing:[1;95mtruss convert src/assets/fem1.jpg --format avif --quality 35 -o src/assets/fem1.avif[0m
+[1;92mDone!
+───── ⋆⋅☆⋅⋆ ─────[0m
+───── ⋆⋅☆⋅⋆ ─────[0m
+───── ⋆⋅☆⋅⋆ ─────[0m
+
+
+
+
+[1;94m · · ────── ꒰ঌ·✦·໒꒱ ────── · ·
+[1;94m · · ────── Vite Init Coomands ────── · ·
+[1;94m · · ────── ꒰ঌ·✦·໒꒱ ────── · ·
+Sun May 17 05:21:48 PM UTC 2026
+Executing:[1;95mtruss convert src/assets/fem1.jpg --format avif --quality 35 -o src/assets/fem1.avif[0m
+[1;92mDone!
+───── ⋆⋅☆⋅⋆ ─────[0m
+───── ⋆⋅☆⋅⋆ ─────[0m
+───── ⋆⋅☆⋅⋆ ─────[0m
+
+
+

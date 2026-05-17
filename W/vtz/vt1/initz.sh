@@ -31,9 +31,15 @@ pussy1() {
 		#0 - Make a new vite project
 		"bun create vite"
 
+		#1- Use truss to optimize image to avif
+		"truss convert src/assets/fem1.jpg --format avif --quality 35 -o src/assets/fem1.avif"
+
+		#2- Use truss to optimize image to webp - Webp best
+		"truss optimize src/assets/fem1.jpg -o src/assets/fem1.webp"
+
 	)
 
-	CMDEXEC="${CMD[0]}"
+	CMDEXEC="${CMD[1]}"
 	echo -e ""
 	echo -e "${BBLUE} · · ────── ꒰ঌ·✦·໒꒱ ────── · ·"
 	echo -e "${BBLUE} · · ────── Vite Init Coomands ────── · ·"
