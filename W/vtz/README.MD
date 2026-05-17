@@ -13,9 +13,10 @@
 
 1. Note `v1` was done with `bun` but you ran into some bugs with it and its not ready so defaulting back to `pnpm`
 
-|       Dir       |   Panty   |
-| :-------------: | :-------: |
-| [`vt1`](./vt1/) | v1 work - |
+|       Dir       |  Panty  |
+| :-------------: | :-----: |
+| [`vt1`](./vt1/) | v1 work |
+| [`vt2`](./vt2/) | v2 work |
 
 # Important Tools
 
